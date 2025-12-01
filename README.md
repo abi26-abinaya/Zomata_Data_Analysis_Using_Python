@@ -9,14 +9,14 @@ A complete exploratory data analysis (EDA) project on the Zomato restaurant data
 *(Replace the image below with your actual screenshot in GitHub)*
 
 ```
-![Zomato Data Analysis Screenshot](Screenshots/first.png)
-[Zomato Data Analysis Screenshot](screenshots/second.png)
-[Zomato Data Analysis Screenshot](Screenshots/third.png)
-[Zomato Data Analysis Screenshot](Screenshots/fourth.png)
-[Zomato Data Analysis Screenshot](Screenshots/fifth.png)
-[Zomato Data Analysis Screenshot](Screenshots/sixth.png)
-[Zomato Data Analysis Screenshot](Screenshots/seventh.png)
-[Zomato Data Analysis Screenshot](Screenshots/final.png)
+![Screenshot](Screenshots/first.png)
+![Screenshot]](screenshots/second.png)
+![Screenshot](Screenshots/third.png)
+![Screenshot](Screenshots/fourth.png)
+![Screenshot]](Screenshots/fifth.png)
+![Screenshot](Screenshots/sixth.png)
+![Screenshot](Screenshots/seventh.png)
+![Screenshot](Screenshots/final.png)
 
 
 ---
