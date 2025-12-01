@@ -1,134 +1,25 @@
-# 🍽️ Zomato Data Analysis Using Python
+# Zomato Data Analysis Using Python
 
-A complete exploratory data analysis (EDA) project on the Zomato restaurant dataset using **Python, Pandas, Matplotlib, and Seaborn**.
+This project analyzes Zomato restaurant data using Python.  
+It includes data cleaning, visualization, and insights about ratings, votes, cuisines, and restaurant trends.
 
----
+## 📎 Screenshots
 
-## 📸 Project Screenshot
+![Screenshot](Screenshots/first.png)
+![Screenshot](Screenshots/second.png)
+![Screenshot](Screenshots/third.png)
+![Screenshot](Screenshots/fourth.png)
+![Screenshot](Screenshots/fifth.png)
+![Screenshot](Screenshots/sixth.png)
+![Screenshot](Screenshots/seventh.png)
+![Screenshot](Screenshots/final.png)
 
-*(Replace the image below with your actual screenshot in GitHub)*
-
-```
-![Screenshot](first.png)
-![Screenshot](second.png)
-![Screenshot](third.png)
-![Screenshot](fourth.png)
-![Screenshot](fifth.png)
-![Screenshot](sixth.png)
-![Screenshot](seventh.png)
-![Screenshot](final.png)
+## 🛠️ Technologies Used
+- Python  
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Seaborn  
+- Jupyter Notebook  
 
 
-
----
-
-## 📊 Project Overview
-
-This project analyzes restaurant trends on Zomato to understand:
-
-* Popular restaurant types
-* Online vs offline ordering preferences
-* Rating distribution
-* Cost analysis for couples
-* Votes received by restaurant category
-* Comparison of ratings (online vs offline)
-* Heatmap of restaurant type vs order mode
-
----
-
-## 🛠️ Tech Stack
-
-* **Python**
-* **Pandas**
-* **Numpy**
-* **Matplotlib**
-* **Seaborn**
-* **Jupyter Notebook**
-
----
-
-## 📂 Dataset
-
-The dataset includes:
-
-* Restaurant name
-* Ratings
-* Votes
-* Online order availability
-* Approximate cost for two
-* Restaurant category (listed_in(type))
-
----
-
-## 📥 Installation & Usage
-
-### 1️⃣ Clone this repository
-
-```bash
-git clone https://github.com/yourusername/zomato-analysis.git
-cd zomato-analysis
-```
-
-### 2️⃣ Install dependencies
-
-```bash
-pip install pandas numpy matplotlib seaborn
-```
-
-### 3️⃣ Run the notebook
-
-```bash
-jupyter notebook
-```
-
-Open `Zomato_Analysis.ipynb`.
-
----
-
-## 🔍 Key Insights
-
-* **Dining restaurants receive the most votes.**
-* Majority of restaurants **do not offer online ordering**.
-* Most ratings fall between **3.5 to 4.0**.
-* Couples prefer restaurants costing around **₹300**.
-* Cafes receive more online orders, while dining restaurants are mostly offline.
-
----
-
-## 📈 Visualizations
-
-Includes:
-
-* Countplots
-* Histograms
-* Boxplots
-* Line charts
-* Heatmap
-
-Each chart helps uncover customer and restaurant behavioral patterns.
-
----
-
-## 📁 Project Structure
-
-```
-📦 Zomato-Data-Analysis
-│
-├── 📁 data
-│    └── Zomato-data-.csv
-│
-├── 📁 screenshots
-│    └── zomato_dashboard.png
-│
-├── Zomato_Analysis.ipynb
-├── README.md
-└── requirements.txt
-```
-
----
-
-## 🏁 Conclusion
-
-This analysis helps understand customer behaviors, restaurant popularity, and online ordering trends, making it valuable for food services, marketing strategies, and business decisions.
-
----
