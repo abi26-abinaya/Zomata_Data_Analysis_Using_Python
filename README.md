@@ -18,9 +18,6 @@ A complete exploratory data analysis (EDA) project on the Zomato restaurant data
 [Zomato Data Analysis Screenshot](Screenshots/seventh.png)
 [Zomato Data Analysis Screenshot](Screenshots/final.png)
 
-```
-
-Create a folder named **screenshots** in your repo and place your screenshot inside.
 
 ---
 
@@ -63,7 +60,7 @@ The dataset includes:
 📥 *Upload your CSV file in the `/data` folder:*
 
 ```
-data/Zomato-data-.csv
+Zomato-data-.csv
 ```
 
 ---
