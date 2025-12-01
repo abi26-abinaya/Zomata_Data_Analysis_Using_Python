@@ -9,14 +9,15 @@ A complete exploratory data analysis (EDA) project on the Zomato restaurant data
 *(Replace the image below with your actual screenshot in GitHub)*
 
 ```
-![Screenshot](Screenshots/first.png)
-![Screenshot]](screenshots/second.png)
-![Screenshot](Screenshots/third.png)
-![Screenshot](Screenshots/fourth.png)
-![Screenshot]](Screenshots/fifth.png)
-![Screenshot](Screenshots/sixth.png)
-![Screenshot](Screenshots/seventh.png)
-![Screenshot](Screenshots/final.png)
+![Screenshot](first.png)
+![Screenshot](second.png)
+![Screenshot](third.png)
+![Screenshot](fourth.png)
+![Screenshot](fifth.png)
+![Screenshot](sixth.png)
+![Screenshot](seventh.png)
+![Screenshot](final.png)
+
 
 
 ---
@@ -56,12 +57,6 @@ The dataset includes:
 * Online order availability
 * Approximate cost for two
 * Restaurant category (listed_in(type))
-
-📥 *Upload your CSV file in the `/data` folder:*
-
-```
-Zomato-data-.csv
-```
 
 ---
 
