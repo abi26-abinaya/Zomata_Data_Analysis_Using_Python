@@ -9,7 +9,15 @@ A complete exploratory data analysis (EDA) project on the Zomato restaurant data
 *(Replace the image below with your actual screenshot in GitHub)*
 
 ```
-![Zomato Data Analysis Screenshot](screenshots/zomato_dashboard.png)
+![Zomato Data Analysis Screenshot](screenshots/first.png)
+[Zomato Data Analysis Screenshot](screenshots/second.png)
+[Zomato Data Analysis Screenshot](screenshots/third.png)
+[Zomato Data Analysis Screenshot](screenshots/fourth.png)
+[Zomato Data Analysis Screenshot](screenshots/fifth.png)
+[Zomato Data Analysis Screenshot](screenshots/sixth.png)
+[Zomato Data Analysis Screenshot](screenshots/seventh.png)
+[Zomato Data Analysis Screenshot](screenshots/final.png)
+
 ```
 
 Create a folder named **screenshots** in your repo and place your screenshot inside.
@@ -132,11 +140,3 @@ Each chart helps uncover customer and restaurant behavioral patterns.
 This analysis helps understand customer behaviors, restaurant popularity, and online ordering trends, making it valuable for food services, marketing strategies, and business decisions.
 
 ---
-
-## 🤝 Connect
-
-If you like this project or want the dataset, feel free to connect on LinkedIn!
-
----
-
-### ⭐ Don't forget to star this repo if it helped you!
